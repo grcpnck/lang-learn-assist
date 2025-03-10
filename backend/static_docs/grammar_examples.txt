@@ -1,0 +1,151 @@
+Yo tiene un perro. → Yo tengo un perro.
+(Wrong verb conjugation: "tiene" should be "tengo" for first-person singular.)
+
+Me llamo es Juan. → Me llamo Juan.
+(The verb "llamarse" is already reflexive; "es" is unnecessary.)
+
+El coche es roja. → El coche es rojo.
+(Adjective agreement: "roja" should be "rojo" to match masculine noun "coche.")
+
+Ayer yo voy al cine. → Ayer yo fui al cine.
+(Incorrect tense: "voy" (present) should be "fui" (past) to match "ayer.")
+
+Mis hermana es alta. → Mi hermana es alta.
+(Possessive agreement: "Mis" (plural) should be "Mi" (singular) for "hermana.")
+
+Yo gusta el chocolate. → Me gusta el chocolate.
+(Incorrect use of "gustar"; needs an indirect object pronoun "me.")
+
+Los chico están cansado. → Los chicos están cansados.
+(Plural agreement: "chico" → "chicos" and "cansado" → "cansados.")
+
+Voy a la escuela en mi pie. → Voy a la escuela a pie.
+(Incorrect preposition: "en" should be "a.")
+
+Quiero miro televisión. → Quiero mirar televisión.
+(Incorrect verb form: "miro" should be "mirar" in an infinitive structure.)
+
+El gato está en la sofá. → El gato está en el sofá.
+(Wrong article: "sofá" is masculine, so it should be "el sofá.")
+
+Nosotros cantamos en el parque ayer. → Nosotros cantamos en el parque ayer.
+(Correct! No change needed.)
+
+Ella está muy hambre. → Ella tiene mucha hambre.
+(Wrong verb: "hambre" uses "tener," not "estar.")
+
+Necesito un otro lápiz. → Necesito otro lápiz.
+(Unnecessary article: "otro" already implies "one more.")
+
+Mis padres son en casa. → Mis padres están en casa.
+(Wrong verb: "estar" is used for location, not "ser.")
+
+El profesor es muy bien. → El profesor es muy bueno.
+(Adjective/adverb confusion: "bien" is an adverb; "bueno" is an adjective.)
+
+Escribo una carta a mi madre ayer. → Escribí una carta a mi madre ayer.
+(Wrong verb tense: past should be "escribí.")
+
+Tengo veinte años viejos. → Tengo veinte años.
+(Unnecessary "viejos" since "años" already implies age.)
+
+Mi casa es más grande de tu casa. → Mi casa es más grande que tu casa.
+(Wrong comparative structure: "de" should be "que.")
+
+Le dije a ella la verdad. → Le dije la verdad.
+(Unnecessary "a ella"; "le" already indicates "to her.")
+
+Voy a mi casa ahora. → Me voy a mi casa ahora.
+(Reflexive verb needed: "irse" instead of "ir.")
+
+Hice mi tarea por la mañana. → Hice mi tarea en la mañana.
+(Wrong preposition: "en" is used for time expressions.)
+
+Está lloviendo mucho, entonces no salimos. → Está lloviendo mucho, así que no salimos.
+(Wrong transition word: "entonces" is not the best choice.)
+
+El agua es frío. → El agua está fría.
+(Gender agreement + "estar" for temporary states.)
+
+Juan es casado con María. → Juan está casado con María.
+(Use "estar" for marital status.)
+
+Si tendría dinero, viajaría más. → Si tuviera dinero, viajaría más.
+(Wrong conditional structure: "tendría" should be "tuviera.")
+
+French (15 examples)
+Je suis 20 ans. → J’ai 20 ans.
+(Use "avoir" for age, not "être.")
+
+Je vais à le parc. → Je vais au parc.
+(Contraction needed: "à le" → "au.")
+
+Elle est un professeur. → Elle est professeur.
+(No article before professions.)
+
+Il mange le pain et les fromage. → Il mange le pain et le fromage.
+(Wrong article: "fromage" is masculine.)
+
+J’aime les chien. → J’aime les chiens.
+(Singular/plural agreement.)
+
+Il va à école. → Il va à l’école.
+(Missing contraction "à l’" before vowels.)
+
+Je veux aller au cinéma avec tu. → Je veux aller au cinéma avec toi.
+(Use "toi" after prepositions, not "tu.")
+
+Nous sommes content. → Nous sommes contents.
+(Adjective agreement: plural "s.")
+
+Je ne mange pas du viande. → Je ne mange pas de viande.
+(Negative structure: "du" → "de.")
+
+Il est plus grand que moi et toi. → Il est plus grand que toi et moi.
+(Proper pronoun order.)
+
+Il a acheté une voiture nouveau. → Il a acheté une nouvelle voiture.
+(Adjective placement: "nouveau" before noun.)
+
+Je suis allé à Paris en l’été. → Je suis allé à Paris en été.
+(No article with seasons after "en.")
+
+Elle chante bien, mais il chante malement. → Elle chante bien, mais il chante mal.
+(No "malement" in French; use "mal.")
+
+C’est mon livre. C’est à moi. → C’est mon livre. Il est à moi.
+(Use "il" for referring to a thing.)
+
+Il a visité la France l'année dernière. → Il a visité la France l’an dernier.
+(More natural phrasing.)
+
+Chinese (10 examples)
+我有五书。 → 我有五本书。
+(Missing measure word "本" for books.)
+
+她是很好。 → 她很好。
+(No "是" before adjectives.)
+
+我喜欢吃苹果和香蕉也。 → 我喜欢吃苹果和香蕉。
+(No "也" at the end of the sentence.)
+
+他昨天去了学校吗？ → 他昨天去学校了吗？
+(Question particle "吗" placed incorrectly.)
+
+我有很朋友。 → 我有很多朋友。
+(Should be "很多" for "a lot.")
+
+你喜欢不喜欢咖啡？ → 你喜欢咖啡吗？
+(Incorrect question structure.)
+
+他比我高很多。 → 他比我高得多。
+(Proper degree phrase.)
+
+我每天看五个小时的电视。 → 我每天看电视看五个小时。
+(Correct word order.)
+
+她穿了一个红色的裙子。 → 她穿了一条红色的裙子。
+(Correct measure word for skirts.)
+
+我要一个饭。 → 我要一碗饭。
+(Use "碗" for rice.)

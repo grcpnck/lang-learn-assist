@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+langchain-openai
+langchain-core
+chromadb
+fitz  # PyMuPDF
+asyncio
+re
